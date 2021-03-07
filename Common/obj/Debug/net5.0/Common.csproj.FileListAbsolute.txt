@@ -1,0 +1,14 @@
+D:\ProjetosGit\Agenda.AgendaContatos\Common\bin\Debug\net5.0\Common.deps.json
+D:\ProjetosGit\Agenda.AgendaContatos\Common\bin\Debug\net5.0\Common.dll
+D:\ProjetosGit\Agenda.AgendaContatos\Common\bin\Debug\net5.0\ref\Common.dll
+D:\ProjetosGit\Agenda.AgendaContatos\Common\bin\Debug\net5.0\Common.pdb
+D:\ProjetosGit\Agenda.AgendaContatos\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+D:\ProjetosGit\Agenda.AgendaContatos\Common\obj\Debug\net5.0\Common.Resources.Errors.Errors.resources
+D:\ProjetosGit\Agenda.AgendaContatos\Common\obj\Debug\net5.0\Common.csproj.GenerateResource.cache
+D:\ProjetosGit\Agenda.AgendaContatos\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosGit\Agenda.AgendaContatos\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\ProjetosGit\Agenda.AgendaContatos\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\ProjetosGit\Agenda.AgendaContatos\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\ProjetosGit\Agenda.AgendaContatos\Common\obj\Debug\net5.0\Common.dll
+D:\ProjetosGit\Agenda.AgendaContatos\Common\obj\Debug\net5.0\ref\Common.dll
+D:\ProjetosGit\Agenda.AgendaContatos\Common\obj\Debug\net5.0\Common.pdb
